@@ -1,9 +1,9 @@
 # Hi there, I'm Katy (she/her) 👋
 
-Passionate full-cycle software engineer with ~15 years experience. Highly motivated remote worker who consistently delivers high-impact projects with an emphasis on architectural best practice, security, and automated testing. Loves modernising large legacy applications and mentoring other engineers through public speaking, pair programming and code review.
+I'm a passionate full-cycle software engineer with ~15 years experience. A highly motivated remote worker who consistently delivers high-impact projects with an emphasis on architectural best practice, security, and automated testing. I love modernising large legacy applications, working on backend infrastructure and mentoring other engineers through public speaking, pair programming and code review. You may know me from the PHP conference circuit.
 
-- 💬 Ask me about **php**, **automated testing**, **authn**, **microservices**, **event-driven architecture**
-- 📫 How to reach me: katy.ereira@gmail.com
+- 💬 Ask me about **php**, **automated testing**, **authn**, **service architecture**, **engineering best practice**, 
+- 📫 How to reach me: katy.ereira@gmail.com, <a rel="me" href="https://phpc.social/@maccath">Mastodon</a>
 - ⚡ Fun fact: I collect Pinkie Pie figures.
 
 ## Skills Summary
