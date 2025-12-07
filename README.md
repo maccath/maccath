@@ -6,6 +6,8 @@ I'm a passionate full-cycle software engineer with ~15 years experience. A highl
 - 📫 How to reach me: katy.ereira@gmail.com, <a rel="me" href="https://phpc.social/@maccath">Mastodon</a>
 - ⚡ Fun fact: I collect Pinkie Pie figures.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y7ENCS)
+
 ## Skills Summary
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
